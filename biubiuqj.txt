@@ -24,7 +24,7 @@
 {"name": "轮播","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="}],
 "zhujiexi": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jx.300ys.xyz/json/jianghu.php/?url=",
 "beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
-"dianshizhibo": "https://gitee.com/adamyun/TV/raw/master/biubiu.txt",
+"dianshizhibo": "https://raw.githubusercontent.com/adamyun-git/TV/main/biubiu.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
